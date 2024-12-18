@@ -1,6 +1,16 @@
-# Battleship Game (CLI)
+# MINI TECH-TITATNS
+
+*****
+
+### Authors: Cornelius Kibet, Lisa Auta, Shaline Chepkoech, Blessing Mwendwa, Andrew Ambuka, Ibrahim Hassan
+
+****
+
+# Project Description (CLI)
 
 Welcome to a classic Battleship game implemented in Python, where a human player competes against a computer opponent. The game is played on the Command Line Interface (CLI) and provides a simple yet engaging gameplay experience.
+
+*****
 
 ## Features
 Playable between a human and a computer.
@@ -11,14 +21,18 @@ Fully interactive CLI-based gameplay.
 
 Customizable board size and ship configurations.
 
+*****
+
 ## Prerequisites
 
 Ensure you have the following installed on your system:
 
 Python 3.6 or higher
 
+*****
+
 ## Setup Instructions
-1. Clone the Repository:
+1. Fork and Clone the Repository:
 
 git@github.com:CorneliusKibetDC/Mini-Techs-Battleship-Group7.git
 
@@ -70,5 +84,12 @@ X for a hit
 O for a miss
 The grid is 10x10, with coordinates starting from (0,0) to (9,9).
 
-## LIcense 
-This project is licensed under the MIT License. 
+*****
+
+## Contact Information
+email: chepkoechshaline7262gmail.com
+
+*****
+
+## License 
+This project is licensed under the MIT License. Copyright (c) 2024 CorneliusKibetDC
