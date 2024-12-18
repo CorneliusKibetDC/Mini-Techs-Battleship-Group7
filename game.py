@@ -1,4 +1,5 @@
 
+
 from board import Board
 from human_player_place import HumanPlayer as HumanPlayerPlace
 from human_player_attack import HumanPlayer as HumanPlayerAttack
@@ -13,8 +14,8 @@ def main():
     computer_board = Board(board_size)
 
     # Create players
-    human_place = HumanPlayerPlace("You", human_board)  # Handles placing ships
-    human_attack = HumanPlayerAttack("You", human_board)  # Handles attacking
+    human_place = HumanPlayerPlace("You", human_board)
+    human_attack = HumanPlayerAttack("You", human_board)
     computer = ComputerPlayer("Computer", computer_board)
 
     # Place ships
